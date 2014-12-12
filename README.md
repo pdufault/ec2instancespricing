@@ -29,8 +29,9 @@ in a CSV, JSON and table formats (default is table).
 To run the command line interface, you need to install:    
 argparse     - if you are running Python < 2.7    
 prettytable  - to get a nice table output to your console
+demjson      - to import the 'lazy' json that Amazon provides
 
-Both of these libraries can be installed using the 'pip install' command.
+All of these libraries can be installed using the 'pip install -r requirements.txt' command.
 
 ec2instancespricing.php
 ======================
